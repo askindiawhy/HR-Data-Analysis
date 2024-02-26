@@ -40,6 +40,32 @@ Same goes for Sick Leave
 
 where MONDAY is the most taken SICK LEAVE in a week 
 
+Sometimes , its quite hectic to go thorough numbers and any decisons , and that is where charts come into play 
+they display the large set of visual in a singal visual 
+
+for the Present% display , we have also used Trendline to show the trend for the quick analysis 
+
+![image](https://github.com/askindiawhy/HR-Data-Analysis/assets/121374921/ac34407b-3a07-44b6-9476-af39c74c036a)
+
+As it is very clear visible , the trend line is going down , which shows people are more comfortble working from home 
+Where the data was 93.59% in the April month , weent down to 90.38% in the june end month 
+
+for WFH% 
+
+![image](https://github.com/askindiawhy/HR-Data-Analysis/assets/121374921/6656faad-bb27-4cec-b6b9-74569df588ad)
+
+The trendline can clearly be seen going up , in the long run 
+form 9.59% to 16.31% in the june month 
+
+Sick Leave% 
+
+![image](https://github.com/askindiawhy/HR-Data-Analysis/assets/121374921/9f27019f-a24d-49c8-85a7-ef1faa64dc9e)
+
+The trendline is going upword , not a very good sigh for any company 
+
+
+
+
 
 
 
