@@ -1,6 +1,8 @@
 # HR-Data-Analysis
 
-Live Dashboard :  [Link](https://app.powerbi.com/groups/me/reports/a4b12ccc-c69f-42a6-974f-5a6b6840688d/ReportSection?experience=power-bi)
+Live Dashboard Link :  [DASHBOARD](https://app.powerbi.com/groups/me/reports/a4b12ccc-c69f-42a6-974f-5a6b6840688d/ReportSection?experience=power-bi)
+
+Youtube Link : [PRESENTATION](https://youtu.be/gSq2UWMF-Pw)
 
 Regarding her employees' attendance, AtliQ Technology's HR manager had some concerns. 
 
