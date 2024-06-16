@@ -8,9 +8,11 @@ Regarding her employees' attendance, AtliQ Technology's HR manager had some conc
 
 Issue Synopsis 
 
---> HR requests information about employee preferences, such as the percentage of workers who prefer WFH and the percentage from WFO. 
-.-> She also desires to know Days when her employees are most present and when they take the most time off 
-She also wants to know the percentage of persons getting sick leave (SL) now that the COVID has passed. 
+📍 HR requests information about employee preferences, such as the percentage of workers who prefer WFH and the percentage from WFO. 
+
+📍She also desires to know Days when her employees are most present and when they take the most time off 
+
+📍She also wants to know the percentage of persons getting sick leave (SL) now that the COVID has passed. 
 
 As data analysts, it is our responsibility to provide stakeholders with greater insights from the data they have provided, if feasible, so they may make informed decisions about their business's future. 
 
