@@ -1,6 +1,6 @@
 # HR-Data-Analysis
 
-Live Dashboard Link :  [DASHBOARD](https://app.powerbi.com/groups/me/reports/a4b12ccc-c69f-42a6-974f-5a6b6840688d/ReportSection?experience=power-bi)
+Live Dashboard Link :  [DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiYmJmNjdmNWUtMmI4Yi00MzRiLTgyMjItMTFiNWQ4NGM4YThiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Youtube Link : [PRESENTATION](https://youtu.be/gSq2UWMF-Pw)
 
